@@ -11,4 +11,5 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Developer](https://t.me/ondanbitmis)✨
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://heroku.com/deploy?template=https://github.com/derdomucis/satna
+### 🚀 Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/derdomucis/satna)
